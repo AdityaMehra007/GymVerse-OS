@@ -1,0 +1,6 @@
+{
+  "name": "GymVerse OS",
+  "description": "The complete digital operating system for gyms: live equipment intelligence, crowd monitoring, interactive gym map, workout tracking, staff control center, and AI gym assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

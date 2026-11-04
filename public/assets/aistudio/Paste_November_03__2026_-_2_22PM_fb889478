@@ -1,0 +1,1751 @@
+# THE ULTIMATE MASTER BUILD PROMPT
+# GYMVERSE OS
+## The Complete Digital Operating System for Every Gym, Every Member, Every Machine, and Every Workout
+
+### YOUR ROLE
+
+Act as an elite product founder, gym-industry operator, fitness technology architect, AI engineer, enterprise software designer, UX specialist, personal-training expert, community builder, cybersecurity architect, and full-stack application developer.
+
+Your mission is to build **GYMVERSE OS**, a complete intelligent digital operating system for individual gyms, fitness clubs, bodybuilding centers, premium fitness studios, strength-training facilities, and multi-branch gym chains.
+
+The product must give every gym its own digital universe.
+
+A gym member must be able to open the application and understand almost everything relevant about their chosen gym: what equipment exists, which machines are operational, what is busy, which classes are happening, which trainers are available, what friends are training, what membership benefits they have, and how to achieve their goals.
+
+At the same time, gym owners and staff must be able to manage equipment, inventory, maintenance, members, memberships, payments, employees, trainers, class schedules, bookings, cleanliness, operations, customer service, and business performance through a unified management system.
+
+**Do not build merely a gym membership application. Build the complete digital headquarters of a gym.**
+
+The application should be premium, beautiful, exceptionally practical, intelligent, community-oriented, trustworthy, and capable of supporting gyms throughout Bangalore, India, and eventually the world.
+
+Build a genuinely functional application, not simply an impressive-looking prototype.
+
+---
+
+# 1. THE PRODUCT VISION
+
+Working product name: **GYMVERSE OS**
+
+Tagline: **YOUR GYM. YOUR PEOPLE. YOUR ENTIRE FITNESS WORLD.**
+
+Alternative brand line:
+
+"Everything happening in your gym. All in one place."
+
+The product consists of three connected experiences:
+
+**GYMVERSE MEMBER:** A personalized application through which members discover their gym, access information, manage workouts, make friends, book services, track progress, and participate in gym life.
+
+**GYMVERSE CONTROL:** A powerful operational dashboard for gym owners, managers, trainers, receptionists, maintenance teams, and other authorized staff.
+
+**GYMVERSE INTELLIGENCE:** An AI-powered intelligence layer that organizes gym information, detects operational problems, answers questions, provides insights, and recommends appropriate actions.
+
+All three products must share a coherent underlying data model and consistent permissions. When an authorized staff member updates a machine's status, changes a class schedule, or announces a closure, the relevant information must update throughout the application.
+
+The platform must support an individual neighborhood gym just as thoughtfully as a luxury fitness club with hundreds of machines and thousands of members.
+
+---
+
+# 2. THE ABSOLUTE DESIGN STANDARD
+
+Make the application look like a premium global fitness technology brand.
+
+The design should combine the atmosphere of a luxury fitness club with the precision of an advanced operations dashboard and the energy of a modern fitness community.
+
+## Visual identity
+
+Primary theme:
+
+- Obsidian black.
+- Deep charcoal.
+- Graphite panels.
+- Elegant white and ivory typography.
+- Restrained electric-lime accents for activity, availability, and success.
+- Subtle cool-blue or violet accents for intelligence and advanced analytics.
+- Refined gradients, carefully controlled shadows, and polished cards.
+- High-quality photographs of real gyms, modern equipment, athletes, and training spaces.
+- Clean data visualizations, clear status indicators, and excellent typography.
+
+Also provide a fully designed light theme.
+
+The overall experience must feel expensive without being difficult to use.
+
+Avoid cluttered layouts, generic templates, excessive neon, excessive animations, tiny text, meaningless charts, fake statistics, and buttons that do nothing.
+
+Use a consistent design system, with defined colors, typography, spacing, iconography, component states, mobile navigation, forms, cards, tables, dialogs, and responsive layouts.
+
+Create an original logo and a memorable app icon based on the concepts of strength, precision, momentum, connectivity, and progress.
+
+Do not copy an established fitness brand.
+
+Design mobile-first while providing equally polished tablet and desktop experiences.
+
+---
+
+# 3. THE MEMBER'S COMPLETE GYM DASHBOARD
+
+When a member opens GYMVERSE, immediately show an accurate, personalized picture of their own gym.
+
+The homepage should answer the following questions without requiring the member to contact reception:
+
+- Is my gym open right now?
+- How busy is it?
+- What equipment is available?
+- Which machines are temporarily unavailable?
+- What classes are coming up?
+- Which trainers are available?
+- Are my friends training today?
+- What workout should I do?
+- How much time should I allow for my session?
+- What are my membership details?
+- Are there announcements I should know about?
+- What is happening in my fitness community?
+- Have any bookings, payments, or membership dates changed?
+
+## Dashboard modules
+
+Create configurable modules for:
+
+1. Gym name, branch, and operating status.
+2. Current occupancy and crowd level.
+3. Equipment availability summary.
+4. Frequently used machines.
+5. Equipment maintenance announcements.
+6. Upcoming classes and available seats.
+7. Trainers and their published availability.
+8. Workout schedule.
+9. Friend activity, where permission has been granted.
+10. Upcoming workout appointments.
+11. Personal records and fitness progress.
+12. Membership status.
+13. Billing and renewal dates.
+14. Gym news and announcements.
+15. Community challenges.
+16. Offers and events.
+17. Locker, shower, parking, or other facility information.
+18. Messages and support requests.
+
+Allow members to rearrange or hide selected modules.
+
+Present the most important information first, not every available metric at once.
+
+Example hero:
+
+**YOUR GYM. YOUR NEXT LEVEL.**
+
+"Your gym is open. Here is what you need to know before your next session."
+
+Display actual information when available. If occupancy, equipment availability, or trainer availability is unknown, show "Status unavailable" rather than inventing a live status.
+
+---
+
+# 4. THE COMPLETE DIGITAL MAP OF THE GYM
+
+Build a digital representation of every participating gym.
+
+Create an interactive gym map or floor plan showing its major areas and facilities.
+
+## Possible zones
+
+- Reception.
+- Cardio area.
+- Free weights.
+- Dumbbell racks.
+- Barbell stations.
+- Resistance machines.
+- Functional training.
+- Stretching and mobility.
+- Personal training.
+- Group exercise studios.
+- Yoga and Pilates.
+- Boxing or martial arts.
+- Swimming facilities.
+- Changing rooms.
+- Showers.
+- Lockers.
+- Washrooms.
+- Water stations.
+- Recovery areas.
+- Retail or supplement counters, where applicable.
+- Staff-only areas.
+- Emergency exits and relevant safety facilities.
+
+Owners can upload an appropriately licensed floor plan or create a simple layout using a visual editor.
+
+Allow staff to place equipment on the floor plan and connect each item to its equipment profile.
+
+Members can tap an area to discover its equipment, supported activities, instructions, relevant rules, and current status.
+
+Support a useful searchable list even when an interactive floor plan is unavailable.
+
+Do not represent a floor plan as architecturally exact unless the underlying measurements and layout have been verified.
+
+---
+
+# 5. THE COMPLETE EQUIPMENT INTELLIGENCE SYSTEM
+
+This must be one of the strongest features of GYMVERSE OS.
+
+Every meaningful piece of equipment in a gym should have its own digital profile.
+
+Create a complete digital equipment register.
+
+## Equipment categories
+
+Support, where applicable:
+
+**Cardio equipment**
+- Treadmills.
+- Elliptical trainers.
+- Exercise bikes.
+- Spin bikes.
+- Rowing machines.
+- Stair climbers.
+- Ski trainers.
+- Air bikes.
+
+**Strength machines**
+- Chest press.
+- Lat pulldown.
+- Seated row.
+- Leg press.
+- Leg extension.
+- Leg curl.
+- Pec deck.
+- Cable machines.
+- Smith machines.
+- Hack squat.
+- Calf raise.
+- Shoulder press.
+- Assisted pull-up and dip machines.
+
+**Free weights**
+- Dumbbells by weight.
+- Barbells.
+- Olympic plates.
+- Fixed-weight bars.
+- Kettlebells.
+- Weight benches.
+- Adjustable benches.
+- Squat racks.
+- Power racks.
+- Deadlift platforms.
+
+**Functional and conditioning equipment**
+- Suspension trainers.
+- Resistance bands.
+- Medicine balls.
+- Slam balls.
+- Plyometric boxes.
+- Battle ropes.
+- Sleds.
+- Sandbags.
+- Gymnastics rings.
+- Agility equipment.
+
+**Additional equipment**
+- Mats.
+- Foam rollers.
+- Mobility tools.
+- Accessories and attachments.
+- Cleaning equipment.
+- Safety and support equipment.
+
+Owners must also be able to create custom categories and items.
+
+## Individual equipment profile
+
+Every equipment asset must support:
+
+- Unique asset ID.
+- Display name.
+- Equipment category.
+- Manufacturer and model, where known.
+- Serial number, where needed and access-restricted.
+- Exact gym branch.
+- Floor or zone.
+- QR code.
+- Barcode or NFC identifier, where supported.
+- Purchase date.
+- Supplier.
+- Warranty details.
+- Installation date.
+- Operating instructions.
+- Relevant manufacturer documentation.
+- Inspection history.
+- Maintenance history.
+- Reported faults.
+- Repair records.
+- Assigned technician.
+- Availability status.
+- Last verified status and timestamp.
+- Supporting photographs.
+- Replacement parts information.
+- Expected service-life information, if reliably available.
+- Cost and depreciation data for authorized management users.
+- Equipment-specific safety notes.
+- Equipment-specific cleaning instructions.
+
+Keep commercial information private from ordinary members.
+
+## Equipment statuses
+
+Implement a clearly defined status system:
+
+- Operational.
+- In use, if actual occupancy data exists.
+- Available.
+- Temporarily occupied.
+- Under inspection.
+- Maintenance scheduled.
+- Reported faulty.
+- Out of service.
+- Awaiting parts.
+- Awaiting repair.
+- Restricted for safety reasons.
+- Retired or removed.
+
+Do not confuse "available" with "operational." An operational machine can still be in use.
+
+## What members see
+
+A member opens the leg-press profile and sees:
+
+"Leg Press 02"
+
+- Location: Lower-body training area.
+- Status: Operational.
+- Current availability: Unknown, or real-time status if supported.
+- Equipment instructions.
+- Approved setup guidance.
+- Relevant manufacturer safety instructions.
+- Alternative exercises when unavailable.
+- Report a problem.
+- Equipment usage etiquette.
+
+For free-weight equipment, display the inventory of available weight ranges or accessories when that inventory is maintained accurately.
+
+For shared equipment, distinguish a reported stock shortage from a confirmed absence.
+
+## Equipment search
+
+Members can search questions such as:
+
+"Where is the incline bench?"
+
+"Does this gym have a hack squat machine?"
+
+"Which treadmills are operational?"
+
+"Where are the 20 kg dumbbells?"
+
+"Which equipment trains the hamstrings?"
+
+Return answers based on the gym's actual equipment register, not generic assumptions.
+
+## QR-based equipment intelligence
+
+Provide QR codes that can be scanned using the application or a mobile browser.
+
+When a member scans a machine's code, open its equipment profile directly.
+
+Members can read usage guidance, check status, request help, or report a fault.
+
+Authorized staff can scan the same code to begin an inspection, create a maintenance ticket, or update permitted fields.
+
+Use non-guessable identifiers or secure authorization for privileged actions. Scanning a QR code must never automatically grant staff permissions.
+
+## Automated equipment updates
+
+Design optional integrations for:
+
+- Machine telemetry.
+- Supported equipment APIs.
+- IoT sensors.
+- Connected cardio machines.
+- Authorized staff updates.
+- Member fault reports.
+- Maintenance workflows.
+
+Clearly identify the source of each status.
+
+Where the equipment cannot provide telemetry, never pretend that live information exists. Provide manual updates, a freshness timestamp, and a confidence or verification indicator.
+
+---
+
+# 6. REAL-TIME GYM STATUS AND CROWD INTELLIGENCE
+
+Members should be able to understand how busy the gym is before leaving home.
+
+Build a crowd and availability dashboard.
+
+## Occupancy features
+
+Display:
+
+- Current estimated occupancy.
+- Maximum permitted occupancy, where established.
+- Crowd-level indicator.
+- Busy and quiet periods.
+- Historical activity by hour and day.
+- Expected crowd range.
+- Preferred training time.
+- Congestion by zone, where supported.
+- Relevant class attendance.
+- Available training capacity.
+
+Use labels such as:
+
+- Quiet.
+- Moderate.
+- Busy.
+- Very busy.
+- Data unavailable.
+
+The system can calculate these indicators using reliable check-in information, privacy-preserving occupancy sensors, or another explicitly configured source.
+
+It must not claim that entry check-ins equal the exact number of people currently inside unless exits, session duration, and other required data make that estimate reliable.
+
+## Equipment-specific crowd information
+
+If the gym has the necessary telemetry or reliable check-in mechanism, display:
+
+- Number of users currently occupying a tracked station.
+- Estimated waiting time.
+- Number of free stations.
+- Recent usage patterns.
+- Alternative equipment in the same zone.
+
+Otherwise, show a transparent manual status or omit the metric.
+
+Do not claim that an unconnected dumbbell rack or weight machine has automatically detected its users.
+
+## Intelligent visit planner
+
+Let members choose:
+
+- Preferred training duration.
+- Desired equipment.
+- Workout type.
+- Preferred crowd level.
+- Available time.
+
+Generate a suggested visit plan based on the best available data.
+
+Example:
+
+"Your planned workout needs four pieces of equipment. Three have verified operational status. Availability of the fourth is unknown. Today's busiest period is expected between 6 PM and 8 PM based on historical check-ins."
+
+Label forecasts as forecasts, with appropriate uncertainty.
+
+---
+
+# 7. FRIENDS, WORKOUT PARTNERS, AND THE SOCIAL GYM
+
+Make the gym a place where members can naturally form friendships and accountability groups.
+
+Create a dedicated section called:
+
+**YOUR GYM COMMUNITY**
+
+Members should be able to socialize around shared fitness interests without making their private lives public by default.
+
+## Optional member profile
+
+Allow users to share selected information:
+
+- Display name.
+- Profile photograph or avatar.
+- General training goals.
+- Favorite training activities.
+- Training experience.
+- Preferred gym area or zone, optionally.
+- Preferred workout times.
+- Languages.
+- Training availability.
+- Fitness interests.
+- Optional introduction.
+- Achievements they choose to share.
+
+Never publish private contact information, payment history, medical information, or precise location by default.
+
+## Friend discovery
+
+Provide optional ways to find:
+
+- Members with similar workout goals.
+- Training partners with compatible schedules.
+- People interested in the same classes.
+- People in common fitness groups.
+- Small-group training partners.
+- Running and sports partners.
+- Accountability partners.
+- Beginner-friendly workout groups.
+- Members who explicitly opt in to meeting others.
+
+Match users through compatible, user-selected preferences, not body shape, attractiveness, popularity, or private medical information.
+
+## Member interactions
+
+Support:
+
+- Send and accept friend requests.
+- Express interest in training together.
+- Create small groups.
+- Send authorized messages.
+- Share workout plans.
+- Invite a friend to a class.
+- Schedule a training session.
+- Celebrate achievements.
+- Share selected workouts.
+- Join community activities.
+- Mute, block, and report users.
+- Control discoverability.
+
+Unsolicited messaging should be restricted.
+
+Allow members to disable friend discovery and social features completely.
+
+## Training availability
+
+Create opt-in statuses:
+
+- Looking for a workout partner.
+- Available for a group class.
+- Interested in a running partner.
+- Looking for an accountability partner.
+- Prefer training alone.
+- Not available for social invitations.
+
+A status must expire automatically or be easy to turn off.
+
+Do not expose a member's exact current gym location, routine, or real-time movement to other members without deliberate, informed sharing.
+
+## Gym group chats
+
+Allow members to participate in official or moderated groups such as:
+
+- Morning lifters.
+- Evening training crew.
+- Beginner fitness circle.
+- Women's training community.
+- Running club.
+- Bodybuilding community.
+- Functional fitness group.
+- Weekend sports group.
+
+Give gym administrators tools to moderate public groups without granting unnecessary access to private conversations.
+
+## Community events
+
+Allow the gym to organize:
+
+- Member introduction days.
+- Fitness challenges.
+- Group workouts.
+- Sports days.
+- Workshops.
+- Beginner orientation.
+- Charity activities.
+- Birthday or milestone celebrations where members opt in.
+- Member appreciation events.
+
+The purpose is to turn a gym from an anonymous room full of strangers into a supportive fitness community.
+
+---
+
+# 8. THE COMPLETE MEMBER PROFILE AND MEMBERSHIP HUB
+
+Every member should have a single place for gym-related information.
+
+Include:
+
+- Profile.
+- Membership plan.
+- Membership start and renewal date.
+- Branch access rights.
+- Membership restrictions.
+- Payment and receipt history.
+- Trial eligibility.
+- Personal training bookings.
+- Class reservations.
+- Membership pause or freeze requests.
+- Cancellation requests.
+- Upcoming appointments.
+- Check-in history.
+- Workout history.
+- Saved exercises.
+- Goals.
+- Achievements.
+- Favorite equipment.
+- Favorite trainers.
+- Community connections.
+- Notification preferences.
+- Consents and privacy controls.
+- Support tickets.
+
+Explain membership terms clearly. Do not promise access to branches, classes, or services that are not included in the actual membership agreement.
+
+Support authorized QR or NFC-based check-in integrations where appropriate.
+
+Never store payment-card information directly when the payment provider can securely manage it.
+
+---
+
+# 9. THE COMPLETE WORKOUT SYSTEM
+
+Build a first-class training experience inside the gym app.
+
+Members should be able to build their own workouts, follow trainer-created programs, or use appropriate AI-generated templates.
+
+## Workout builder
+
+Support:
+
+- Full-body training.
+- Upper/lower splits.
+- Push, pull, legs.
+- Strength programs.
+- Muscle-building programs.
+- Cardio.
+- Functional training.
+- Mobility.
+- Beginner plans.
+- Home training.
+- Sport-specific training.
+
+The exercise library must reflect the gym's actual equipment inventory.
+
+## Smart equipment substitutions
+
+Suppose the cable machine becomes unavailable during a member's workout.
+
+The app should recommend appropriate alternative exercises based on the intended movement, equipment that exists in the gym, the user's preferences, and the limitations of the recommendation.
+
+Example:
+
+"The cable station is temporarily unavailable. Consider this available alternative that trains a similar movement pattern, or continue with the next exercise in your routine."
+
+Make it clear that alternatives may not be mechanically or biomechanically identical.
+
+## Workout session
+
+Implement:
+
+- Exercise selection.
+- Sets and repetitions.
+- Weight or resistance.
+- Rest timer.
+- Exercise notes.
+- Completed-set indicators.
+- Session duration.
+- Substitution.
+- Saved routines.
+- Session recovery.
+- Workout summaries.
+- Personal records.
+
+Prevent accidental loss of workout progress.
+
+## Training history
+
+Show trends in workout frequency, training volume, performance, cardio, and consistency where the data supports these metrics.
+
+Allow members to export appropriate records and control which achievements they share.
+
+---
+
+# 10. TRAINER DISCOVERY AND PERSONAL TRAINING
+
+Every gym can maintain a searchable directory of its trainers.
+
+Each profile should include:
+
+- Photograph and introduction.
+- Verified professional credentials.
+- Relevant experience.
+- Specializations.
+- Training languages.
+- Published availability.
+- Session duration.
+- Pricing.
+- Services included.
+- Coaching format.
+- Appropriate client feedback.
+- Booking terms.
+
+Support trainer consultations, one-to-one sessions, group coaching, and online sessions where offered.
+
+Members can:
+
+- Compare trainers.
+- Ask permitted questions.
+- Book a session.
+- Reschedule.
+- Cancel under published terms.
+- Receive reminders.
+- Review completed sessions.
+- Report a concern.
+
+Trainers need a private professional workspace for:
+
+- Schedules.
+- Client lists.
+- Booking management.
+- Programs.
+- Client-approved workout notes.
+- Session history.
+- Payment summaries.
+- Availability.
+- Cancellations.
+- Member communication.
+
+Only authorized parties should access client information. Professional credentials must not be labeled verified until the verification workflow is complete.
+
+---
+
+# 11. THE GROUP CLASS AND ACTIVITY CENTER
+
+Create a complete class scheduling system.
+
+Support classes such as:
+
+- Yoga.
+- Pilates.
+- HIIT.
+- Indoor cycling.
+- Dance fitness.
+- Boxing.
+- Mobility.
+- Strength circuits.
+- Conditioning.
+- Meditation.
+- Beginner orientations.
+- Specialized workshops.
+
+Each class should display:
+
+- Instructor.
+- Date and time.
+- Duration.
+- Location.
+- Capacity.
+- Available spaces.
+- Eligibility.
+- Price or membership inclusion.
+- Requirements.
+- Cancellation terms.
+- Accessibility information.
+
+Members should be able to book, cancel, join a waitlist, receive notifications, and view their class calendar.
+
+Prevent duplicate bookings, overbooking, and race conditions when several members reserve the final available place.
+
+Owners should be able to move, reschedule, or cancel a class while notifying affected members.
+
+---
+
+# 12. MAINTENANCE, CLEANLINESS, AND FACILITY MANAGEMENT
+
+Build a serious operational system that keeps the gym usable, clean, and safe.
+
+## Fault reporting
+
+Members can scan a QR code or choose a piece of equipment to report:
+
+- Unusual noise.
+- Loose components.
+- Broken cables.
+- Damaged padding.
+- Display problems.
+- Electrical problems.
+- Missing parts.
+- Incorrect weights or labels.
+- Cleaning issues.
+- Other concerns.
+
+Provide optional photographs and concise written descriptions.
+
+Urgent or potentially dangerous reports must create a prominent alert for authorized staff.
+
+Allow authorized personnel to restrict equipment access while a safety issue is being assessed.
+
+An unsafe machine must not remain advertised as available merely because its previous status was operational.
+
+## Maintenance workflow
+
+Each work order should include:
+
+- Ticket number.
+- Asset.
+- Location.
+- Problem category.
+- Severity.
+- Reported time.
+- Report source.
+- Assigned staff member.
+- Status.
+- Inspection notes.
+- Required parts.
+- Estimated and actual cost.
+- Repair actions.
+- Supporting attachments.
+- Resolution notes.
+- Reopening rules.
+
+Statuses:
+
+- Reported.
+- Triage.
+- Assigned.
+- Inspection.
+- Awaiting parts.
+- Repair in progress.
+- Awaiting verification.
+- Resolved.
+- Closed.
+
+Only authorized staff can close an equipment issue. Design the workflow to require an appropriate safety inspection before returning restricted equipment to service.
+
+Track recurring equipment failures and recurring facility problems.
+
+## Cleaning and housekeeping
+
+Support:
+
+- Zone-based cleaning schedules.
+- Restroom inspections.
+- Shower checks.
+- Equipment sanitation.
+- Water-station checks.
+- Locker-room checks.
+- Supplies and consumables inventory.
+- Staff task assignments.
+- Completion evidence where appropriate.
+- Overdue reminders.
+- Exception reporting.
+
+Give authorized managers a live task board with overdue jobs and unresolved safety issues.
+
+---
+
+# 13. COMPLETE INVENTORY AND SUPPLY MANAGEMENT
+
+The gym owner must be able to track not just large machines but all important assets and supplies.
+
+Track:
+
+- Equipment.
+- Dumbbells and plates.
+- Bars and attachments.
+- Resistance bands.
+- Mats.
+- Cleaning supplies.
+- Paper and hygiene supplies.
+- First-aid inventory.
+- Replacement parts.
+- Retail merchandise where applicable.
+- Other consumables.
+
+Support stock counts, minimum-stock thresholds, suppliers, purchase orders, goods received, stock adjustments, damaged items, and stock movement history.
+
+Where supported, create equipment QR labels and stock barcodes.
+
+Generate alerts when supplies reach configured thresholds.
+
+Provide an audit trail for inventory adjustments.
+
+Do not describe inventory as real time unless scans, transactions, or integrations actually update it.
+
+---
+
+# 14. AI GYM ASSISTANT
+
+Build an AI assistant called **GYMVERSE IQ**.
+
+It should answer questions about the member's own gym using authorized, current gym data.
+
+Members can ask:
+
+- "What time does my gym close today?"
+- "Does my gym have a hack squat?"
+- "Where are the adjustable benches?"
+- "Is the spin class full?"
+- "How do I book a trainer?"
+- "What are my membership renewal options?"
+- "How can I report a damaged machine?"
+- "Which equipment in the gym can I use for a beginner leg workout?"
+- "What classes fit my available schedule?"
+- "How can I contact reception?"
+
+The system must distinguish verified facts, old information, estimates, forecasts, and unknown data.
+
+Do not invent gym policies, machine availability, class seats, prices, staff schedules, or payment statuses.
+
+If the answer cannot be found, offer a relevant next step or forward the question to an authorized support workflow.
+
+## Owner and manager copilot
+
+Authorized business users can ask:
+
+- "Which machines have unresolved safety issues?"
+- "Which maintenance tickets are overdue?"
+- "Which classes are approaching capacity?"
+- "Which memberships are due for renewal?"
+- "How many trial enquiries need follow-up?"
+- "Which consumables are below minimum stock?"
+- "What operational issues require attention today?"
+- "How did attendance change compared with the previous period?"
+
+Every operational answer must be based on actual stored records and correctly scoped to the user's permissions.
+
+Provide the time period, data freshness, and relevant assumptions for analytics.
+
+## AI limitations
+
+AI must not diagnose health conditions, provide dangerous exercise instructions, invent professional credentials, approve payments, or independently declare unsafe equipment fit for use.
+
+For significant operational actions, require an authorized human confirmation.
+
+Keep an audit record of important AI-assisted actions.
+
+---
+
+# 15. GYM OWNER CONTROL CENTER
+
+Create a sophisticated command center for gym owners.
+
+## Owner dashboard
+
+Display:
+
+- Current operating status.
+- Active members.
+- Today's check-ins.
+- Current occupancy, where supported.
+- Upcoming classes.
+- Equipment health.
+- Open maintenance tickets.
+- Safety alerts.
+- Membership enquiries.
+- Trial bookings.
+- Membership renewals.
+- Confirmed payment collections.
+- Pending payment issues.
+- Staff schedules.
+- Cleaning tasks.
+- Inventory warnings.
+- Customer support requests.
+- Recent changes.
+
+Create useful summaries rather than drowning the owner in numbers.
+
+## Member and CRM management
+
+Owners can manage:
+
+- New enquiries.
+- Prospective members.
+- Trials.
+- Membership applications.
+- Active memberships.
+- Renewals.
+- Paused memberships.
+- Cancellations.
+- Complaints.
+- Member feedback.
+- Authorized communications.
+
+Create a sales and follow-up pipeline for gym business enquiries without forcing ordinary members into sales processes.
+
+Support staff assignments, notes, follow-up dates, and consent-respecting communications.
+
+## Revenue and billing
+
+Track:
+
+- Membership sales.
+- Subscription collections.
+- Class revenue.
+- Personal training revenue.
+- Trial revenue where applicable.
+- Discounts.
+- Refunds.
+- Failed and pending payments.
+- Receivables.
+- Applicable taxes and fees.
+- Payment-provider reconciliation.
+
+Distinguish booked revenue, collected payments, pending amounts, refunds, and accounting revenue.
+
+Provide downloadable reports and integration points for suitable accounting software.
+
+## Staff management
+
+Manage:
+
+- Roles.
+- Permissions.
+- Work shifts.
+- Attendance records where lawfully supported.
+- Responsibilities.
+- Task assignments.
+- Training records.
+- Certifications.
+- Emergency contacts with appropriate access protection.
+- Relevant performance metrics.
+
+Do not expose sensitive staff or member information to unauthorized employees.
+
+## Multi-branch management
+
+Support a gym business with multiple locations.
+
+Owners can compare branch-level attendance, membership performance, equipment uptime, maintenance costs, class demand, and operational issues.
+
+Branch managers should only access their authorized branches.
+
+---
+
+# 16. NOTIFICATIONS AND GYM COMMUNICATION
+
+Create an intelligent notification center that makes gym operations transparent.
+
+Notify members about:
+
+- Unexpected closures.
+- Holiday hours.
+- Class changes.
+- Booking confirmations.
+- Waiting-list openings.
+- Trainer schedule changes.
+- Membership renewal reminders.
+- Confirmed billing events.
+- Relevant maintenance announcements.
+- Events they have joined.
+- Requested support updates.
+
+Owners and staff may receive notifications about:
+
+- Equipment safety reports.
+- Overdue maintenance.
+- Critical stock shortages.
+- Class-capacity issues.
+- Payment failures.
+- Membership operational tasks.
+- Support escalations.
+- Facility tasks.
+
+Support in-app notifications and optional email, SMS, or push notifications through configured providers.
+
+Allow users to select categories and frequency. Respect quiet hours and notification permissions.
+
+Do not send false emergency alerts or expose sensitive information in lock-screen notifications.
+
+---
+
+# 17. CUSTOMER SUPPORT AND PROBLEM RESOLUTION CENTER
+
+Every member should know how to get help.
+
+Create a central **GYM HELP DESK**.
+
+Members can request help with:
+
+- Membership and payments.
+- Check-in problems.
+- Equipment.
+- Personal training.
+- Classes and bookings.
+- Cleanliness.
+- Facilities.
+- Lost property.
+- App problems.
+- Complaints.
+- Safety concerns.
+- Refund or cancellation requests.
+
+Each ticket must support:
+
+- Unique identifier.
+- Issue category.
+- Description.
+- Attachments.
+- Severity.
+- Responsible team.
+- Status.
+- Updates.
+- Resolution notes.
+- Escalation.
+- Reopening where appropriate.
+
+Provide clear response expectations rather than inventing guaranteed resolution times.
+
+Urgent physical safety issues must be visibly distinguished from ordinary enquiries. In an immediate emergency, the app should direct the member to alert gym staff and contact appropriate emergency services.
+
+Use AI to classify requests and draft suggested responses, while requiring appropriate staff oversight for sensitive or disputed matters.
+
+---
+
+# 18. DIGITAL CHECK-IN AND SMART GYM ACCESS
+
+Integrate with supported gym entry systems.
+
+Possible methods:
+
+- Member QR code.
+- Supported NFC credential.
+- Existing access-control integration.
+- Authorized staff check-in.
+
+Maintain attendance records with appropriate privacy controls.
+
+Handle:
+
+- Expired memberships.
+- Suspended access.
+- Eligible branch access.
+- Guest passes.
+- Trial visits.
+- Failed scans.
+- Duplicate events.
+- Temporary system outages.
+
+The application must not bypass an access system's permission checks.
+
+If smart locks or turnstiles are integrated, use the access-control provider's secure authorization mechanism. Never expose unrestricted unlock commands to the member frontend.
+
+Provide reception with a reliable fallback process for legitimate access problems.
+
+---
+
+# 19. AMENITIES AND THE ENTIRE GYM EXPERIENCE
+
+Give members accurate information about everything else that makes their chosen facility usable.
+
+Track amenities such as:
+
+- Changing rooms.
+- Showers.
+- Lockers.
+- Drinking water.
+- Parking.
+- Air conditioning.
+- Wi-Fi.
+- Towels.
+- Accessibility provisions.
+- Women-focused facilities, where offered.
+- Personal training areas.
+- Group studios.
+- Recovery facilities.
+- Swimming pools.
+- Sports areas.
+- Reception hours.
+
+Where practical, show opening times, availability, temporary closures, usage rules, and support contacts.
+
+Support optional locker reservations, towel tracking, visitor passes, lost-property workflows, and facility-booking systems.
+
+Do not advertise a facility, service, or amenity unless the gym has confirmed it.
+
+---
+
+# 20. NUTRITION, RECOVERY, AND WELLNESS
+
+Offer optional health and wellness features connected to the gym experience.
+
+Members can access:
+
+- Nutrition education.
+- Meal planning tools.
+- Workout recovery guidance.
+- Sleep-habit tracking.
+- Stretching routines.
+- Hydration reminders.
+- General mobility resources.
+- Optional wellness journaling.
+- Qualified professional consultations where available.
+
+Provide culturally relevant Indian food options, dietary preferences, and flexible plans.
+
+Allow users to opt out of calorie tracking and health-related features entirely.
+
+Explain the distinction between general wellness education and professional medical advice.
+
+Do not promise specific body transformations, recommend dangerous supplements, encourage extreme diets, or diagnose medical conditions.
+
+Any collected health information must be purpose-limited, permission-controlled, protected, and deletable according to the applicable data-retention rules.
+
+---
+
+# 21. SAFETY AND EMERGENCY OPERATIONS
+
+Build safety into the entire product.
+
+Include:
+
+- Emergency contact information configured for the facility.
+- Visible exit and first-aid information where verified.
+- Fault-reporting shortcuts.
+- Equipment lockout workflows.
+- Incident reporting.
+- Authorized staff escalation.
+- Incident records with restricted access.
+- Safety inspection schedules.
+- Relevant staff training and certification records.
+- Recall and manufacturer-safety notices where reliable sources are available.
+- Appropriate escalation reminders.
+
+If an equipment safety issue is reported, notify authorized personnel and allow the responsible manager to restrict the asset immediately.
+
+Never use AI as the sole authority to reopen unsafe equipment.
+
+Maintain appropriate audit records for consequential safety decisions.
+
+Emergency workflows should use verified facility information and should not depend entirely on a functioning internet connection.
+
+---
+
+# 22. MEMBERSHIP PLANS, PAYMENTS, AND COMMERCIAL SERVICES
+
+Allow each gym to configure its actual commercial offerings.
+
+Examples:
+
+- Monthly membership.
+- Quarterly membership.
+- Annual membership.
+- Off-peak membership.
+- Student membership.
+- Couple or family membership.
+- Personal training packages.
+- Class packages.
+- Day passes.
+- Trial memberships.
+- Applicable corporate memberships.
+
+Each plan needs:
+
+- Price.
+- Billing frequency.
+- Included branches.
+- Included services.
+- Class entitlements.
+- Membership dates.
+- Restrictions.
+- Discounts.
+- Pause and cancellation terms.
+- Applicable taxes.
+- Renewal conditions.
+
+Integrate a supported provider such as Razorpay when appropriate for the Indian market, using the provider's official integration requirements.
+
+Verify payment status on the server and process signed webhooks safely.
+
+Support payment failures, retries, refunds, receipts, and reconciliation.
+
+Use a sandbox for development. Label test payments clearly, and never claim an actual financial transaction has succeeded without confirmation.
+
+---
+
+# 23. THE DIGITAL TWIN AND OPERATING KNOWLEDGE BASE
+
+Every gym must be able to maintain an up-to-date digital record of its operations.
+
+Build a gym knowledge base containing:
+
+- Gym profile.
+- Branches.
+- Facilities.
+- Equipment.
+- Operating hours.
+- Membership policies.
+- Class schedules.
+- Trainers and staff roles.
+- Amenities.
+- Safety policies.
+- Maintenance procedures.
+- Frequently asked questions.
+- Announcements.
+- Emergency instructions.
+- Support processes.
+
+Every important record should identify, when appropriate:
+
+- Who last changed it.
+- When it was last changed.
+- Whether it has been verified.
+- Whether it is current or expired.
+- Which roles can access it.
+
+Allow owners to import data from spreadsheets, subject to validation and duplicate checks.
+
+Support manual edits, bulk updates, revision history, and data exports.
+
+The AI assistant must use this verified knowledge base instead of guessing.
+
+A digital twin is only as reliable as its data. Make missing and outdated information easy to identify.
+
+---
+
+# 24. ADVANCED INTEGRATIONS
+
+Design the platform to support, when technically and commercially feasible:
+
+- Gym access-control systems.
+- QR and NFC devices.
+- Equipment telemetry.
+- Occupancy sensors.
+- Supported smart cardio machines.
+- Wearable platforms.
+- Maps.
+- Payment providers.
+- Email and SMS.
+- Push notifications.
+- Calendar integrations.
+- Accounting software.
+- Customer relationship management systems.
+- Business intelligence tools.
+- Maintenance and inventory integrations.
+
+Use modular integration adapters.
+
+Each integration must document:
+
+- Required credentials.
+- Permissions.
+- Data exchanged.
+- Update frequency.
+- Error handling.
+- Security requirements.
+- Pricing or vendor limitations where known.
+- Operational fallback.
+
+Never imply an integration exists merely because a button or screen has been created.
+
+---
+
+# 25. TECHNICAL ARCHITECTURE
+
+Build a maintainable, secure, scalable application.
+
+Preferred architecture when supported:
+
+- Frontend: Next.js or an appropriate modern React framework.
+- Language: TypeScript.
+- Styling: Tailwind CSS and a coherent design-token system.
+- Database: PostgreSQL.
+- Authentication: a secure managed authentication service or equivalent.
+- Backend: validated server-side APIs and business logic.
+- Storage: suitable private and public object storage.
+- Authorization: server-side role and resource checks.
+- Monitoring: application errors and operational metrics.
+- Payments: a supported payment provider.
+- Deployment: an appropriate managed cloud platform.
+
+Supabase may be evaluated for database, authentication, storage, and selected realtime functions. Vercel may be evaluated for deployment. Choose the smallest practical stack that satisfies the requirements.
+
+If the selected development environment requires another stack, adapt the plan intelligently.
+
+## Required data entities
+
+Design appropriate relational models for:
+
+- Organizations.
+- Gyms.
+- Branches.
+- Zones.
+- Floor plans.
+- Equipment categories.
+- Equipment assets.
+- Equipment status history.
+- Maintenance work orders.
+- Inspections.
+- Cleaning tasks.
+- Inventory items.
+- Suppliers.
+- Stock movements.
+- Members.
+- Member profiles.
+- Membership plans.
+- Membership records.
+- Payment records.
+- Refund records.
+- Staff.
+- Staff roles and permissions.
+- Trainers.
+- Credentials.
+- Classes.
+- Class schedules.
+- Bookings.
+- Attendance.
+- Workout programs.
+- Exercises.
+- Workout sessions.
+- Exercise sets.
+- Friend requests.
+- Social connections.
+- Groups.
+- Group membership.
+- Conversations.
+- Messages.
+- Events.
+- Notifications.
+- Support tickets.
+- Incident reports.
+- Announcements.
+- Audit records.
+- Consent records.
+- Subscription entitlements.
+- Integration configurations.
+
+Use foreign keys, indexes, appropriate uniqueness constraints, validation, migrations, and a clear retention policy.
+
+Avoid creating a single giant table or storing all operational data as unvalidated JSON.
+
+## Required user roles
+
+Support separate permission profiles for:
+
+- Members.
+- Guests.
+- Personal trainers.
+- Receptionists.
+- Equipment technicians.
+- Housekeeping staff.
+- Fitness instructors.
+- Billing personnel.
+- Branch managers.
+- Gym owners.
+- Chain administrators.
+- Platform support.
+- Authorized safety personnel.
+- Platform administrators.
+
+Permissions must be enforced on the server, not merely hidden in the user interface.
+
+A personal trainer must not automatically gain access to the gym's financial records. A member must not see another member's private profile or an owner's maintenance costs. A branch manager must not automatically access every branch.
+
+---
+
+# 26. PRIVACY, SECURITY, AND DATA TRUST
+
+The gym contains sensitive information about people's habits, activities, relationships, payments, and sometimes health.
+
+Implement:
+
+- Data minimization.
+- Purpose-specific consent.
+- Secure authentication.
+- Role-based access control.
+- Encryption in transit.
+- Appropriate encryption at rest.
+- Secure sessions.
+- Input validation.
+- Rate limiting.
+- Secure file uploads.
+- Audit logging.
+- Backup and recovery procedures.
+- Account export and deletion workflows.
+- Sensitive-data access restrictions.
+- Incident response planning.
+- Consent withdrawal for optional features.
+- Appropriate retention and deletion policies.
+
+Keep staff records, health information, private messages, and financial information out of ordinary analytics logs.
+
+Make social sharing opt-in, and allow members to delete or correct eligible information.
+
+Obtain qualified legal review of applicable Indian privacy, consumer, employment, health-service, and payment requirements before launch.
+
+---
+
+# 27. GYMVERSE ADMINISTRATION AND WHITE-LABEL MODE
+
+The platform should support two commercial modes.
+
+**Mode A: Branded gym application.** A gym can use the GYMVERSE platform with its own name, photographs, logo, branch details, and membership plans inside the unified member experience.
+
+**Mode B: Dedicated gym experience.** Eligible business customers can receive a more customized, gym-branded application experience according to their subscription and supported deployment model.
+
+Do not promise a completely separate app-store application for every business unless the technical, publishing, and commercial requirements are implemented.
+
+Gym owners should be able to customize:
+
+- Branding.
+- Logo.
+- Color palette within approved limits.
+- Branches.
+- Facilities.
+- Equipment register.
+- Membership plans.
+- Class schedules.
+- Policies.
+- Announcements.
+- Authorized staff.
+- Notification settings.
+- Social community settings.
+- Optional integrations.
+
+A platform-level administration panel must manage subscription plans, tenant isolation, configuration, support, incidents, billing, audit logs, and operational health.
+
+One gym must never access another gym's private business data.
+
+---
+
+# 28. BUSINESS MODEL
+
+Create a financially sustainable commercial structure.
+
+## Gym software subscriptions
+
+**GYMVERSE STARTER**
+- Gym listing and profile.
+- Basic equipment inventory.
+- Membership directory.
+- Announcements.
+- Basic operational dashboard.
+
+**GYMVERSE PRO**
+- Equipment QR management.
+- Maintenance workflows.
+- Class bookings.
+- Member communication.
+- Gym community.
+- Business analytics.
+- Staff tasks.
+- Member self-service.
+
+**GYMVERSE ELITE**
+- Advanced analytics.
+- AI operational assistant.
+- Expanded integrations.
+- Advanced inventory.
+- Forecasting where supported.
+- Enhanced automation.
+- Premium branding options.
+
+**GYMVERSE ENTERPRISE**
+- Multiple branches.
+- Centralized administration.
+- Consolidated reporting.
+- Advanced role management.
+- Enterprise integrations.
+- Contract-specific support and service levels.
+
+Consumers may use a free member experience with optional premium features where justified.
+
+Additional revenue may come from eligible payment processing, booking commissions, approved partnerships, and optional business services.
+
+Display pricing, renewal terms, applicable taxes, and cancellation conditions transparently.
+
+Do not invent market prices or present illustrative pricing as validated willingness to pay.
+
+---
+
+# 29. PRODUCT DEVELOPMENT ROADMAP
+
+Prioritize a coherent, working product before adding every advanced feature.
+
+## Phase 1: Gym digital foundation
+
+Build:
+
+- Gym profile.
+- Member authentication.
+- Membership dashboard.
+- Equipment inventory.
+- Search and filters.
+- Equipment QR codes.
+- Manual equipment status updates.
+- Gym announcements.
+- Class schedule.
+- Basic staff roles.
+- Member support requests.
+- Mobile-responsive interface.
+
+The output should already be useful to a real gym.
+
+## Phase 2: Complete gym operations
+
+Add:
+
+- Maintenance tickets.
+- Cleaning workflows.
+- Inventory alerts.
+- Member management.
+- Membership renewals.
+- Trainer schedules.
+- Class booking.
+- Owner analytics.
+- Payment integration.
+- Equipment history.
+- Notifications.
+
+## Phase 3: Social and intelligent features
+
+Add:
+
+- Friend discovery.
+- Workout-partner matching.
+- Moderated gym communities.
+- Group events.
+- AI gym assistant.
+- Workout planning.
+- Equipment-aware exercise alternatives.
+- Personalized dashboard.
+- Member activity preferences.
+
+## Phase 4: Connected gym intelligence
+
+Add selected integrations for:
+
+- Equipment sensors.
+- Supported machine telemetry.
+- Occupancy measurement.
+- Access systems.
+- Wearables.
+- Advanced demand forecasting.
+- Automated maintenance alerts.
+
+Only introduce real-time features once their required data sources are connected, tested, and reliable.
+
+## Phase 5: Multi-branch and global expansion
+
+Add:
+
+- Multiple organizations.
+- Branch comparisons.
+- Corporate gym management.
+- White-label options.
+- Internationalization.
+- More integrations.
+- Regional configuration.
+- Scalable subscriptions.
+
+---
+
+# 30. MANDATORY QUALITY AND ACCEPTANCE TESTS
+
+Before claiming that the platform is ready, test actual workflows.
+
+### Member tests
+
+- A member can create an account and sign in.
+- The member can find accurate gym information.
+- The member can browse actual equipment records.
+- A scanned QR code opens the correct asset.
+- The member can distinguish operational equipment from unavailable equipment.
+- A member can submit an equipment fault report.
+- A member can view published class times.
+- A member can book and cancel a class.
+- A member can view membership terms.
+- A member can control social visibility.
+- A member can make and manage friend requests.
+- A member can report or block abusive users.
+- A member can receive relevant notifications.
+- A member can submit and track a support ticket.
+
+### Staff tests
+
+- Authorized staff can update permitted records.
+- Unauthorized roles cannot edit restricted data.
+- Equipment reports create maintenance work orders.
+- Critical safety reports trigger the correct workflow.
+- Staff can assign maintenance tasks.
+- Work orders maintain their history.
+- Restricted equipment cannot be falsely represented as available.
+- Cleaning and inventory tasks can be tracked.
+- Staff actions appear in appropriate audit logs.
+
+### Owner tests
+
+- An owner can manage membership records.
+- An owner can manage classes and trainer schedules.
+- Booking capacity is enforced.
+- Payment status is verified.
+- Financial reports distinguish pending and completed transactions.
+- Business analytics use the correct time period.
+- Branch permissions work correctly.
+- Different gym organizations remain isolated.
+
+### Platform tests
+
+- Search works.
+- Filters work.
+- Buttons perform their stated actions.
+- Data persists after refresh.
+- Authentication and permissions are enforced server-side.
+- Failure states are understandable.
+- Network interruptions do not create duplicate payments or bookings.
+- Mobile layouts work.
+- Accessibility checks are performed.
+- Database migrations are reproducible.
+- Backups and recovery procedures are documented.
+- Security-sensitive operations are logged.
+- Critical workflows have automated tests.
+
+Deliver a transparent test report listing passed checks, failed checks, incomplete integrations, outstanding risks, and next steps.
+
+---
+
+# 31. THE FINAL BUILD INSTRUCTIONS
+
+Start by inspecting the development environment and selecting an appropriate implementation stack.
+
+Then perform the following:
+
+1. Write the product architecture.
+2. Map all primary user journeys.
+3. Establish the visual design system.
+4. Build the member application.
+5. Build the gym-owner dashboard.
+6. Build the staff operations workspace.
+7. Create and migrate the database.
+8. Implement authentication and permissions.
+9. Build the equipment register and QR workflow.
+10. Connect maintenance, inventory, memberships, and class bookings.
+11. Implement the friend and workout-partner experience.
+12. Integrate the AI assistant with authorized gym data.
+13. Add realistic demonstration data for a fictional gym.
+14. Test critical interactions.
+15. Fix defects and incomplete screens.
+16. Document environment variables and integration requirements.
+17. Produce setup and deployment instructions.
+18. State exactly what works and what still requires configuration.
+
+Use the smallest reasonable assumptions and document significant decisions.
+
+Do not stop after drawing the dashboard.
+
+Do not generate dead buttons, fake real-time indicators, fabricated machine statuses, fake payment confirmations, or meaningless analytics.
+
+Where an integration requires external credentials, build the supported integration boundary, document the necessary environment variables, and state that configuration is still required.
+
+Where live data is unavailable, provide useful manual functionality and clearly labeled demonstration data.
+
+Do not call the product production-ready unless the necessary security, operational, integration, and acceptance checks have actually succeeded.
+
+---
+
+# THE ULTIMATE PRODUCT STANDARD
+
+When a member asks, "What's happening in my gym?", the application should be able to provide an accurate answer from authorized, current information.
+
+When a member asks, "Can I find someone to train with?", the system should provide an opt-in, respectful way to discover compatible people.
+
+When an owner asks, "What requires my attention today?", the dashboard should surface the most important confirmed operational issues.
+
+When a machine breaks, the appropriate people should know, the problem should be tracked, and the equipment should not be returned to service without appropriate authorization.
+
+When a class changes, affected members should receive accurate information.
+
+When the gym expands, its operational data and permissions should scale with it.
+
+The product must connect equipment, people, services, information, and business operations into one coherent system.
+
+**Build the gym's complete digital brain, not just its digital noticeboard.**
+
+GYMVERSE OS
+
+**EVERY MACHINE. EVERY MEMBER. EVERY MOMENT. ONE GYMVERSE.**
